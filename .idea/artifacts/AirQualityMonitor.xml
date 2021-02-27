@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AirQualityMonitor">
+    <output-path>$PROJECT_DIR$/out/artifacts/AirQualityMonitor</output-path>
+    <root id="archive" name="AirQualityMonitor.jar">
+      <element id="module-output" name="AirQualityMonitor" />
+    </root>
+  </artifact>
+</component>
